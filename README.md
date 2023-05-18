@@ -1,0 +1,1 @@
+# class-based-gneric-view
